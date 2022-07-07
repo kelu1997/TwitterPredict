@@ -48,10 +48,10 @@ def TwitAPI(username):
     import pandas as pd
 
     # Authenticate keys
-    consumer_key = "s1IG611VO8lQdSfySXWRyEmZw"
-    consumer_secret = "dN3wBJirRvDuzVTGvbpMyNgf9pYnDM8M3DEvVmzJEraKy0GhtP"
-    access_token = "1855909566-QV04OuOXREdsjHhQazLK50vydMzt2qzC4vVC8sy"
-    access_secret = "yS9qYUPy3iOWb4EvM21IBIC5CZ8atXGhPO7qndu8VSiAN"
+    consumer_key = 
+    consumer_secret = 
+    access_token = 
+    access_secret = 
 
     from tweepy.auth import OAuthHandler
     # OAuth
